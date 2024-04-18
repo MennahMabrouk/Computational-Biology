@@ -1,0 +1,14 @@
+ _aln.pos         10        20        30        40        50        60
+2f9vA     MGAPITAYAQQTRGLLGCIITSLTGRDKNQVEGEVQIVSTATQTFLATCINGVCWTVYHGAGTRTIAS 
+protease  -------------------------------EGEVQIVSTATQTFLATCINGVCWTVYHGAGTRTIAS 
+ _consrvd                                *************************************
+
+ _aln.p   70        80        90       100       110       120       130
+2f9vA     PKGPVIQMYTNVDQDLVGWPAPQGSRSLTPCTCGSSDLYLVTRHADVIPVRRRGDSRGSLLSPRPISY 
+protease  PKGPVIQMYTNVDKDLVGWPAPQGARSLTPCTCGSSDLYLVTRHADVIPVRRRGDSRGSLLSPRPISY 
+ _consrvd ************* ********** *******************************************
+
+ _aln.pos  140       150       160       170       180
+2f9vA     LKGSSGGPLLCPAGHAVGLFRAAVCTRGVAKAVDFIPVENLETTMRS 
+protease  LKGSSGGPLLCPAGHAVGIFKAAVCTRGVAKAVDFIPVESLET---- 
+ _consrvd ****************** * ****************** ***

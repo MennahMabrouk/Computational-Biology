@@ -14,8 +14,8 @@ Performance comparison based on model quality, accuracy, and computational effic
 Results
 The study aims to provide insights into the efficacy of Modeller and Swiss-Model in predicting the NS3 protease/helicase protein's structure. Comparative analysis will identify the optimal approach for homology modeling, contributing to structural biology and drug discovery efforts.
 
-### Conclusion
-Homology modeling plays a vital role in understanding protein structure and function. This project contributes to the understanding of NS3 protease/helicase and aids in the development of antiviral therapies. Researchers can utilize the findings to choose the most suitable homology modeling approach for similar protein systems.
+Swiss Model: https://swissmodel.expasy.org/interactive/zHsMFK/
+
 
 ### Usage
 Clone the repository: git clone https://github.com/yourusername/NS3-Protease-Helicase-Homology-Modeling.git
@@ -26,4 +26,3 @@ Modify the analysis as needed for specific research goals.
 
 Documentation: https://www.notion.so/mennahtullahmabrouk/Homology-Modelling-92dd3c091d7b460bafac0049ac80a60f?pvs=4
 
-https://swissmodel.expasy.org/interactive/zHsMFK/

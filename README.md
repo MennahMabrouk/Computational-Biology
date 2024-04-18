@@ -18,7 +18,7 @@ Swiss Model: https://swissmodel.expasy.org/interactive/zHsMFK/
 
 
 ### Usage
-Clone the repository: git clone https://github.com/yourusername/NS3-Protease-Helicase-Homology-Modeling.git
+Clone the repository
 Install required dependencies.
 Run Modeller and Swiss-Model algorithms on the provided amino acid sequence.
 Evaluate and compare the generated models.
